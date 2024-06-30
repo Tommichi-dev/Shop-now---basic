@@ -1,6 +1,6 @@
 # Web - Básica tienda onlinea
 
-![HTML](https://img.shields.io/badge/HTML-5.0-orange)
+![HTML](https://img.shields.io/badge/HTML-5.0-orange)(https://github.com/Tommichi-dev/Shop-now---basic/blob/main/index.html)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 

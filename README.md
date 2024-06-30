@@ -1,4 +1,5 @@
 # Web - Básica tienda onlinea
+Interacción Dinámica con Productos en HTML usando JavaScript
 
 
 ## Objetivo

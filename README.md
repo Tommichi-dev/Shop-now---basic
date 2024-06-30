@@ -1,4 +1,9 @@
 # Web - Básica tienda onlinea
+
+![HTML](https://img.shields.io/badge/HTML-5.0-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 Interacción Dinámica con Productos en HTML usando JavaScript
 
 
